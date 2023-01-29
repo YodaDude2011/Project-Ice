@@ -4,4 +4,4 @@ This project aims to bring our popular minecraft community to a new light and al
 
 By implementing this into the community, everyone can have more fun, have even more friends join them, plus allow easier moderation to protect your hard earned diamonds and buildings
 
-All of our previous worlds will be available to download on this page too
+All of our previous worlds will be available to download on this page too - https://www.mediafire.com/file/ox2d2bymw506lpi/Berlin%252Bfb3worlds.zip/file
